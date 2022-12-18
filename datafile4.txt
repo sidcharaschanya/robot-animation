@@ -1,0 +1,13 @@
+Grid 7 350 darkgray orange
+Robot 0 0 south randomized cyan 150
+MarkerColor green
+Marker 3 3
+ObstacleColor orange
+Obstacle 2 0
+Obstacle 4 0
+Obstacle 0 2
+Obstacle 6 2
+Obstacle 0 4
+Obstacle 6 4
+Obstacle 2 6
+Obstacle 4 6

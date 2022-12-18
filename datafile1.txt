@@ -1,0 +1,18 @@
+Grid 15 600 lightgray white
+Robot 0 12 north right red 100
+MarkerColor darkgray
+Marker 7 7
+ObstacleColor white
+Obstacle 14 0
+Obstacle 13 14
+Obstacle 0 13
+Obstacle 1 1
+Obstacle 12 2
+Obstacle 11 12
+Obstacle 2 11
+Obstacle 3 3
+Obstacle 10 4
+Obstacle 9 10
+Obstacle 4 9
+Obstacle 5 5
+Obstacle 8 6

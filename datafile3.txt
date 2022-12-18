@@ -1,0 +1,11 @@
+Grid 9 450 black white
+Robot 2 2 west randomized gray 250
+MarkerColor red
+Marker 6 6
+ObstacleColor white
+Obstacle 2 1
+Obstacle 6 1
+Obstacle 1 2
+Obstacle 7 2
+Obstacle 1 6
+Obstacle 2 7

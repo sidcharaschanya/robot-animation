@@ -1,0 +1,19 @@
+Grid 12 600 blue cyan
+Robot 6 11 east left orange 150
+MarkerColor white
+Marker 5 11
+ObstacleColor yellow
+Obstacle 3 1
+Obstacle 2 2
+Obstacle 8 2
+Obstacle 4 3
+Obstacle 6 3
+Obstacle 0 4
+Obstacle 7 4
+Obstacle 4 7
+Obstacle 11 7
+Obstacle 5 8
+Obstacle 7 8
+Obstacle 3 9
+Obstacle 9 9
+Obstacle 8 10
